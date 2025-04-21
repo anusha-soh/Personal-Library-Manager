@@ -22,7 +22,7 @@ A modern, user-friendly web application built with Streamlit to help you manage 
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/anusha-soh/Personal-Library-Manager
 cd personal-lib-manager
 ```
 
@@ -63,7 +63,7 @@ streamlit run main.py
 - [JSON](https://www.json.org/) - Data storage format
 
 
-Project Link: [https://github.com/yourusername/personal-lib-manager](https://github.com/yourusername/personal-lib-manager)
+Project Link: https://github.com/anusha-soh/Personal-Library-Manager
 
 ## 🙏 Acknowledgments
 
